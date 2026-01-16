@@ -4,6 +4,7 @@ Activate virtual environment :
 
 Activate FastAPI:
 cd FastAPI
+
 uvicorn main:app --reload
 
 
